@@ -49,10 +49,7 @@ Electrical
 
 ### Robot in Action
 <p align="center">
-  <video width="600" controls>
-    <source src="assets/IMG_6678-short.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="assets/IMG_6678-short.gif" width="600"/>
 </p>
 
 ### Final Robot

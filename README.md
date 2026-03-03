@@ -1,55 +1,65 @@
-# 🚜 HackIllinois 2026 – Mechaton Track
+# HackIllinois 2026 – Mechaton Track
 ### Autonomous Surface-Flattening Robot
 
 <p align="center">
-  <img src="images/robot_demo.mp4" width="600"/>
+  <video width="600" controls>
+    <source src="assets/IMG_6678-short.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  Autonomous robot designed to efficiently flatten surfaces without human intervention.
 </p>
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-This project was developed for the **HackIllinois 2026 – John Deere Mechaton Track**.
+This project was developed for the HackIllinois 2026 – John Deere Mechaton Track.
 
 The objective was to design and build a robot capable of:
 
-- Operating **fully autonomously**
-- Flattening a surface to a **specified smoothness level**
-- Ensuring **safe human interaction**
+- Operating fully autonomously
+- Flattening a surface to a specified smoothness level
+- Ensuring safe human interaction
 
 ---
 
-## 👨‍💻 My Contributions
+## My Contributions
 
-- 🛠 Designed a **mechanical flattening system** targeting controlled smoothness levels  
-- ⚡ Rapidly prototyped using **laser cutters and 3D printers**  
-- 🔒 Implemented **hardware safety mechanisms** for human interaction  
-- 💻 Conducted and reviewed **C++ code implementation**
+- Designed a mechanical flattening system targeting controlled smoothness levels
+- Rapidly prototyped using laser cutters and 3D printers
+- Implemented hardware safety mechanisms for human interaction
+- Conducted and reviewed C++ code implementation
 
 ---
 
-## 🧰 Technical Stack
+## Technical Stack
 
-**Hardware & Fabrication**
+Hardware & Fabrication
 - Laser Cutting
 - 3D Printing
 - Rapid Prototyping
 
-**Software**
+Software
 - C++
 - Embedded Systems Programming
 
-**Electrical**
+Electrical
 - Safety circuits
 - LED status indicators
 
 ---
 
-## 🎥 Demo
+## Demo
 
 ### Robot in Action
 <p align="center">
-  <img src="assets/IMG_6678-short.mp4" width="600"/>
+  <video width="600" controls>
+    <source src="assets/IMG_6678-short.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ### Final Robot
@@ -59,27 +69,27 @@ The objective was to design and build a robot capable of:
 
 ---
 
-## 🏆 Performance Results
+## Performance Results
 
 | Metric | Score |
 |--------|--------|
-| Surface Smoothness | **6 / 10** |
-| Speed Performance | **8 / 10** |
+| Surface Smoothness | 6 / 10 |
+| Speed Performance | 8 / 10 |
 
-We couldn't acheive full-autonomy due to the time limit (Partial autonomy).
-
----
-
-## 📚 Key Takeaways
-
-- Designing **complex mechanical systems under tight deadlines** is extremely challenging  
-- Strong **planning and iteration strategy** significantly impacts results  
-- Implementing control systems like **PID controllers** requires deeper preparation in constrained environments  
+We couldn't achieve full autonomy due to the time limit (Partial autonomy).
 
 ---
 
-## 📄 License
+## Key Takeaways
+
+- Designing complex mechanical systems under tight deadlines is extremely challenging
+- Strong planning and iteration strategy significantly impacts results
+- Implementing control systems like PID controllers requires deeper preparation in constrained environments
+
+---
+
+## License
 
 This project follows the license provided in the original repository:
 
-🔗 [ELEGOO-Conqueror-Robot-Tank-Kit License](https://github.com/elegooofficial/ELEGOO-Conqueror-Robot-Tank-Kit/blob/main/Conqueror%20Robot%20Tank%20Kit%203D%20model.zip)
+[ELEGOO-Conqueror-Robot-Tank-Kit License](https://github.com/elegooofficial/ELEGOO-Conqueror-Robot-Tank-Kit/blob/main/Conqueror%20Robot%20Tank%20Kit%203D%20model.zip)

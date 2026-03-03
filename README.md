@@ -82,4 +82,5 @@ We couldn't achieve full autonomy due to the time limit (Partial autonomy).
 
 This project follows the license provided in the original repository:
 
-[ELEGOO-Conqueror-Robot-Tank-Kit License](https://github.com/elegooofficial/ELEGOO-Conqueror-Robot-Tank-Kit/blob/main/Conqueror%20Robot%20Tank%20Kit%203D%20model.zip)
+
+[ELEGOO-Conqueror-Robot-Tank-Kit License](https://github.com/elegooofficial/ELEGOO-Conqueror-Robot-Tank-Kit/)

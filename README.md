@@ -1,50 +1,89 @@
-# HackIllinois 2026 – Mechaton Track
+# 🚜 HackIllinois 2026 – Mechaton Track
+### Autonomous Surface-Flattening Robot
 
-![Robot Demo](images/robot_demo.gif)  
-*Autonomous robot designed to flatten surfaces efficiently.*
+<p align="center">
+  <img src="images/robot_demo.gif" width="600"/>
+</p>
 
----
-
-## Project Overview
-This project is part of **HackIllinois 2026 John Deere Mechaton Track**.  
-The goal is to **design a robot that can autonomously flatten a surface** without human interaction.
-
----
-
-## My Role
-- Designed a mechanism to **flatten the surface to a specified level of smoothness**  
-- **Rapidly prototyped mechanisms** using limited resources (laser cutter, 3D printers) and time  
-- Designed and implemented **safety mechanisms** for human interaction  
+<p align="center">
+  <em>Autonomous robot designed to efficiently flatten surfaces without human intervention.</em>
+</p>
 
 ---
 
-## Technical Stack
-- Rapid prototyping: **Laser cutting, 3D Printing**  
-- Design iteration and product testing  
-- **Code review (C++)**  
-- Electrical setup: **Safety mechanisms, LED indicators**
+## 📌 Project Overview
+
+This project was developed for the **HackIllinois 2026 – John Deere Mechaton Track**.
+
+The objective was to design and build a robot capable of:
+
+- Operating **fully autonomously**
+- Flattening a surface to a **specified smoothness level**
+- Ensuring **safe human interaction**
 
 ---
 
-## Demo
-![Robot Running Demo](assets/IMG_6678-short.MOV)  
-![Robot Image](assets/IMG_6663.png)
+## 👨‍💻 My Contributions
+
+- 🛠 Designed a **mechanical flattening system** targeting controlled smoothness levels  
+- ⚡ Rapidly prototyped using **laser cutters and 3D printers**  
+- 🔒 Implemented **hardware safety mechanisms** for human interaction  
+- 💻 Conducted and reviewed **C++ code implementation**
 
 ---
 
-## Achievements
-- **Level 6 surface smoothness achieved** (Score 6/10)  
-- **Level 8 speed achieved** (Score 8/10)  
+## 🧰 Technical Stack
+
+**Hardware & Fabrication**
+- Laser Cutting
+- 3D Printing
+- Rapid Prototyping
+
+**Software**
+- C++
+- Embedded Systems Programming
+
+**Electrical**
+- Safety circuits
+- LED status indicators
 
 ---
 
-## What I Learned
-- Designing a **sophisticated mechanism under time constraints is challenging**  
-- **Better planning** is crucial for limited-time projects  
-- Certain skills, such as **PID controllers**, are difficult to implement with limited resources
+## 🎥 Demo
+
+### Robot in Action
+<p align="center">
+  <img src="assets/IMG_6678-short.mp4" width="600"/>
+</p>
+
+### Final Robot
+<p align="center">
+  <img src="assets/IMG_6663.png" width="500"/>
+</p>
 
 ---
 
-## License
-This project follows the license provided in the original source code repository:  
-[GitHub License](https://github.com/elegooofficial/ELEGOO-Conqueror-Robot-Tank-Kit/blob/main/Conqueror%20Robot%20Tank%20Kit%203D%20model.zip)
+## 🏆 Performance Results
+
+| Metric | Score |
+|--------|--------|
+| Surface Smoothness | **6 / 10** |
+| Speed Performance | **8 / 10** |
+
+We couldn't acheive full-autonomy due to the time limit (Partial autonomy).
+
+---
+
+## 📚 Key Takeaways
+
+- Designing **complex mechanical systems under tight deadlines** is extremely challenging  
+- Strong **planning and iteration strategy** significantly impacts results  
+- Implementing control systems like **PID controllers** requires deeper preparation in constrained environments  
+
+---
+
+## 📄 License
+
+This project follows the license provided in the original repository:
+
+🔗 [ELEGOO-Conqueror-Robot-Tank-Kit License](https://github.com/elegooofficial/ELEGOO-Conqueror-Robot-Tank-Kit/blob/main/Conqueror%20Robot%20Tank%20Kit%203D%20model.zip)

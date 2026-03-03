@@ -2,14 +2,7 @@
 ### Autonomous Surface-Flattening Robot
 
 <p align="center">
-  <video width="600" controls>
-    <source src="assets/IMG_6678-short.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
-  Autonomous robot designed to efficiently flatten surfaces without human intervention.
+  <img src="assets/IMG_6663.png" width="500"/>
 </p>
 
 ---

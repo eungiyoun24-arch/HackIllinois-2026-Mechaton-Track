@@ -1,16 +1,6 @@
 # 🚜 HackIllinois 2026 – Mechaton Track
 ### Autonomous Surface-Flattening Robot
 
-<p align="center">
-  <img src="images/robot_demo.gif" width="600"/>
-</p>
-
-<p align="center">
-  <em>Autonomous robot designed to efficiently flatten surfaces without human intervention.</em>
-</p>
-
----
-
 ## 📌 Project Overview
 
 This project was developed for the **HackIllinois 2026 – John Deere Mechaton Track**.
